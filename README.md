@@ -1,12 +1,16 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C2410C&height=140&section=header&text=Choolwe%20Cheelo&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Actuarial%20Scientist%20%7C%20%F0%9F%87%BF%F0%9F%87%B2%20Zambia&descAlignY=58&descSize=16&descFontColor=fde8df" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C2410C&height=110&section=header" />
 
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CCheelo&color=c2410c&style=flat-square&label=Profile+Views)
 
-<br/>
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=C2410C&center=true&vCenter=true&width=560&lines=Data+Analyst;Actuarial+Scientist;Power+BI+Developer+%28PL-300%29;Statistical+Researcher;R+%26+SQL+Specialist;Based+in+Zambia" alt="Typing SVG" />
+</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C2410C&center=true&vCenter=true&width=700&lines=Turning+messy+data+into+clear+answers+%F0%9F%94%8D;Finding+the+story+hidden+in+the+numbers+%F0%9F%93%8A;Simpson%27s+Paradox+survivor+%F0%9F%98…;Testing+stock+markets+before+it%27s+cool+%F0%9F%93%88;Building+things+that+matter+%F0%9F%87%BF%F0%9F%87%B2" alt="Typing SVG" />
+<p>
+  <b>Choolwe Cheelo</b> &mdash; turning messy data into clear answers 🇿🇲
+</p>
 
 <br/>
 
@@ -36,7 +40,7 @@
 </td>
 <td valign="top" width="45%">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:10px" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 
 </td>
 </tr>
@@ -89,17 +93,13 @@
 
 ---
 
-<details>
-<summary><b>⚡ Random Facts About My Work</b></summary>
-<br/>
+### ⚡ Random Facts About My Work
 
 - 📉 The admissions bias project starts with "men are being favoured" and ends with "actually, never mind" — Simpson's Paradox in the wild
 - 🟠 Copper makes up 70%+ of Zambia's export earnings, so forecasting its price isn't just academic — it's fiscal planning
-- 📉 The Lusaka Stock Exchange failed the random walk test for several stocks — meaning past prices *do* predict future ones, at least a little
+- 📊 The Lusaka Stock Exchange failed the random walk test for several stocks — meaning past prices *do* predict future ones, at least a little
 - 🖥️ This entire portfolio site has zero npm packages, zero frameworks, zero build steps — just HTML, CSS, and vanilla JS
-- 🤖 I'm Anthropic AI certified, which means I'm technically qualified to use the thing helping me write this
-
-</details>
+- 🤖 I'm Anthropic AI certified, which means I'm technically qualified to use the thing that helped me build all of this
 
 ---
 
