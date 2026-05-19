@@ -30,7 +30,7 @@
 - 📊 Certified in Power BI, SQL, R, and AI
 - 🔬 Obsessed with finding stories hidden in data
 - 🇿🇲 Based in Zambia — building tools that matter for emerging markets
-- 🤝 Contributing to the [PRC System](https://github.com/astrosanderson/prc-system) — football league management platform
+- 🤝 Contributing to the [PRC System](https://github.com/astrosanderson/prc-system) — player registry centre
 - 🌱 Currently deep in: time series forecasting & market efficiency testing
 - 💬 Ask me about **Simpson's Paradox** or **weak-form market efficiency**
 - ⚡ Fun fact: Zambia's entire economy moves when copper prices move
