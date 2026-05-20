@@ -12,7 +12,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-choolwecheelo.com-C2410C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.choolwecheelo.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-choolwecheelo.vercel.app-C2410C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.choolwecheelo.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/choolwe-cheelo)
 [![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:choolwecheelo22@gmail.com)
 
